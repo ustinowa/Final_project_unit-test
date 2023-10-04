@@ -1,0 +1,34 @@
+C:\Users\asust\Downloads\pythonProject-main (Код с семинара)>pylint pythonProject-main/final_hw/average_list.py
+
+************* Module average_list
+pythonProject-main\final_hw\average_list.py:32:0: C0305: Trailing newlines (trailing-newlines)
+pythonProject-main\final_hw\average_list.py:4:0: C0115: Missing class docstring (missing-class-docstring)
+pythonProject-main\final_hw\average_list.py:6:4: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\average_list.py:8:12: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+pythonProject-main\final_hw\average_list.py:19:4: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\average_list.py:23:12: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 7.00/10, -7.00)
+
+
+C:\Users\asust\Downloads\pythonProject-main (Код с семинара)>pylint pythonProject-main/final_hw/test_average.py
+************* Module test_average
+pythonProject-main\final_hw\test_average.py:62:0: C0305: Trailing newlines (trailing-newlines)
+pythonProject-main\final_hw\test_average.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+pythonProject-main\final_hw\test_average.py:5:0: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\test_average.py:9:0: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\test_average.py:13:0: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\test_average.py:17:0: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\test_average.py:22:0: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\test_average.py:27:0: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\test_average.py:32:0: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\test_average.py:36:0: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\test_average.py:41:0: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\test_average.py:46:0: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\test_average.py:51:0: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\test_average.py:55:0: C0116: Missing function or method docstring (missing-function-docstring)
+pythonProject-main\final_hw\test_average.py:59:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 5.31/10 (previous run: 5.31/10, +0.00)
